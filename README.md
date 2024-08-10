@@ -1,16 +1,15 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hengistchan)](https://github.com/anuraghazra/github-readme-stats)
+### Hi, there 👋
 
-<!--
-**hengistchan/hengistchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Hengist 😉, a frontend programmer 👨🏻‍💻 from China 🇨🇳. Beside's programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
 
-Here are some ideas to get you started:
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Current Status Quo**
+
+- 👨🏻‍💻 I’m currently working on a Financial company in Shenzhen, China.
+- 🌱 I’m currently learning Rust and ML.
+- 🤔 My interests are with AIGC, System Design, etc.
+- 💬 Ask me about anything, I would like to answer.
+- 📫 Please email via hengistchan@outlook.com to reach me.
+
+[![Hengist's GitHub stats](https://github-readme-stats.vercel.app/api?username=hengistchan)](https://github.com/anuraghazra/github-readme-stats)
