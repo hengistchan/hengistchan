@@ -12,4 +12,4 @@ Hi, I'm Hengist 😉, a frontend programmer 👨🏻‍💻 from China 🇨🇳.
 - 💬 Ask me about anything, I would like to answer.
 - 📫 Please email via hengistchan@outlook.com to reach me.
 
-[![Hengist's GitHub stats](https://github-readme-stats.vercel.app/api?username=hengistchan)](https://github.com/anuraghazra/github-readme-stats)
+[![Hengist's GitHub stats](https://github-readme-stats.vercel.app/api?username=hengistchan&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
