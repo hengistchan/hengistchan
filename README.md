@@ -2,7 +2,7 @@
 
 Hi, I'm Hengist 😉, a frontend programmer 👨🏻‍💻 from China 🇨🇳. Beside's programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+  <img style="padding-left: 10px;margin-top: 20px;" align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
 **Current Status Quo**
 
