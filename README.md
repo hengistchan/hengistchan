@@ -8,7 +8,7 @@ I'm HJ 😉, a frontend programmer 👨🏻‍💻 from China 🇨🇳. Beside's
 
 **Current Status Quo**
 
-- 👨🏻‍💻 I’m currently working on a Financial company in Shenzhen, China.
+- 👨🏻‍💻 I’m currently working in Shenzhen, China.
 - 🌱 I’m currently learning Rust and ML.
 - 🤔 My interests are with AIGC, System Design, etc.
 - 💬 Ask me about anything, I would like to answer.
